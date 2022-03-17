@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1GvHX_iW4Ri2k_Cq5HM_FZtvIdpUt0SEr/view?usp=sharing](https://drive.google.com/file/d/1GvHX_iW4Ri2k_Cq5HM_FZtvIdpUt0SEr/view?usp=sharing)
 
-- 📄 Check my portfolio <a href="https://vishal-chauhan-portfolio.vercel.app/" target="blank">https://vishal-chauhan-portfolio.vercel.app/</a>
+- 📄 Check my portfolio <a href="https://vishal-chauhan-portfolio.vercel.app/" target="_blank">https://vishal-chauhan-portfolio.vercel.app/</a>
 
 - ⚡ Fun fact **I am a Batman fan.**
 
